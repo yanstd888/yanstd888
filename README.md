@@ -24,4 +24,7 @@ I'm an independent developer building AI-powered products and reliable full-stac
 
 ## Links
 
-- Website: https://yanstd.web.id
+- Website: 
+https://yanstd.web.id
+https://node2mint.com
+https://lynk.id/tokoyans
