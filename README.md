@@ -9,6 +9,9 @@
     <a href="https://yanstd.web.id">
       <img src="https://img.shields.io/badge/Website-yanstd.web.id-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
     </a>
+    <a href="https://lynk.id/tokoyans">
+      <img src="https://img.shields.io/badge/Website-yanstd.web.id-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Store">
+    </a>
     <a href="https://github.com/yanstd888">
       <img src="https://img.shields.io/badge/GitHub-yanstd888-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </a>
