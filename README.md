@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Yanstd</h1>
-
+<img src="https://aiclub.ai.id/builder/33ad8d1a950947058477c554dfa2ee0e.svg?style=card&theme=dark" alt="Powered by AICLUB" width="224" height="64">
   <p>
     Independent developer building AI-powered products and reliable full-stack systems.
   </p>
