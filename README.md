@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://aiclub.ai.id/builder/33ad8d1a950947058477c554dfa2ee0e.svg?style=card&v=3" alt="Powered by AICLUB" width="224" height="64">
+<div align="center"> 
   <h1>Yanstd</h1>
   <p><strong>Independent developer building AI-powered products, full-stack systems, automation tools, and digital experiences.</strong></p>
   <p>Web developer · AI enthusiast · Automation builder · Digital creator</p>
@@ -14,6 +13,7 @@
     <a href="https://github.com/sponsors/yanstd888"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square" alt="Sponsor Yanstd on GitHub"></a>
     <a href="https://aiclub.ai.id/dashboard.html#tab-don"><img src="https://img.shields.io/badge/Donate-AICLUB-FFD23F?style=flat-square&labelColor=111111" alt="Donate to AICLUB"></a>
   </p>
+  <img src="https://aiclub.ai.id/builder/33ad8d1a950947058477c554dfa2ee0e.svg?style=card&v=3" alt="Powered by AICLUB" width="224" height="64">
 </div>
 
 ## About
@@ -53,7 +53,6 @@ This profile is a curated index of my public projects, experiments, websites, an
 | [Node2Mint](https://github.com/yanstd888/node2mint) | Self-hosted AI marketplace, token billing engine, OpenAI-compatible API gateway, provider failover, and affiliate commission system. |
 | [Threads Auto Poster](https://github.com/yanstd888/threads-auto-poster) | Self-hosted Threads scheduler with AI-assisted drafting, human approval, and safer publishing workflows. |
 | [Agent Product Factory](https://github.com/yanstd888/agent-product-factory) | Agent skills for building, verifying, and packaging commercial digital products with strict offline QA gates. |
-| [Yanstd is-a.dev](https://github.com/yanstd888/yanstd) | A developer subdomain project for creating a memorable personal web address under `is-a.dev`. |
 
 ## Technology
 
