@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Yanstd</h1>
   <p><strong>Independent developer building AI-powered products, full-stack systems, automation tools, and digital experiences.</strong></p>
-  <p>Web developer · AI enthusiast · Automation builder · Digital creator</p>
+  <p>Web developer · AI enthusiast · Quant & Algo Trader · Automation builder · Digital creator</p>
 
   <p>
     <a href="https://yans.ai.id/"><img src="https://img.shields.io/badge/Yans.AI.ID-Official%20Links-111827?style=for-the-badge" alt="Yans AI ID official website"></a>
@@ -20,7 +20,7 @@
 
 I am **Yanstd**, an independent developer from **Batam, Indonesia**. I build practical AI products, full-stack web applications, developer infrastructure, automation workflows, and digital tools that solve real problems.
 
-My work combines **TypeScript, Next.js, React, Go, PostgreSQL, Redis, Docker, and Linux** with a strong focus on clear documentation, reliable deployment, and maintainable systems. I use AI to move faster, then review the result carefully before shipping.
+My work combines **TypeScript, Next.js, React, Go, MQL5, PostgreSQL, Redis, Docker, and Linux** with a strong focus on clear documentation, reliable deployment, and maintainable systems. I use AI to move faster, then review the result carefully before shipping.
 
 This profile is a curated index of my public projects, experiments, websites, and services.
 
@@ -28,7 +28,11 @@ This profile is a curated index of my public projects, experiments, websites, an
 
 <table>
   <tr>
-    <td width="25%"><strong>AI Products</strong></td>
+    <td width="25%"><strong>Algorithmic Trading & Quant Systems</strong></td>
+    <td>Institutional-grade Expert Advisors for MetaTrader 5 (MQL5), Smart Money Concepts (ICT), tick-level backtest engines, and non-martingale risk models.</td>
+  </tr>
+  <tr>
+    <td><strong>AI Products</strong></td>
     <td>AI-powered tools, API integrations, token systems, and practical automation for creators and teams.</td>
   </tr>
   <tr>
@@ -49,6 +53,7 @@ This profile is a curated index of my public projects, experiments, websites, an
 
 | Project | What it does |
 |---|---|
+| [Institutional SMC Scalper MT5](https://github.com/yanstd888/institutional-smc-scalper-mt5) | Open-source Smart Money Concepts (SMC/ICT) & MSNR Gold (XAUUSD) Expert Advisor for MetaTrader 5 with 6.5-year real-tick verified backtest (PF 1.42, max DD 10.2%, zero martingale). |
 | [AICLUB Free Subdomains](https://github.com/yanstd888/free-subdomain-aiclub-ai-id) | A free subdomain service with live `.ai.id`, `.web.id`, `.cv`, `.eu.cc`, and other domain options, plus DNS setup guidance. |
 | [Node2Mint](https://github.com/yanstd888/node2mint) | Self-hosted AI marketplace, token billing engine, OpenAI-compatible API gateway, provider failover, and affiliate commission system. |
 | [Threads Auto Poster](https://github.com/yanstd888/threads-auto-poster) | Self-hosted Threads scheduler with AI-assisted drafting, human approval, and safer publishing workflows. |
@@ -56,7 +61,7 @@ This profile is a curated index of my public projects, experiments, websites, an
 
 ## Technology
 
-`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Go` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `Linux` · `Cloudflare`
+`TypeScript` · `JavaScript` · `Python` · `MQL5` · `React` · `Next.js` · `Go` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `Linux` · `Cloudflare`
 
 ## Official Links
 
@@ -94,9 +99,9 @@ The fastest way to find my current work and contact channels is [Yans.AI.ID](htt
 
 ## Bahasa Indonesia
 
-Saya adalah **Yanstd**, developer independen dari **Batam, Indonesia** yang membangun produk AI, aplikasi full-stack, automation tools, infrastruktur developer, website, dan produk digital.
+Saya adalah **Yanstd**, developer independen dari **Batam, Indonesia** yang membangun produk AI, trading system algoritmik (MQL5), aplikasi full-stack, automation tools, infrastruktur developer, website, dan produk digital.
 
-Saya menggabungkan TypeScript, Next.js, React, Go, PostgreSQL, Redis, Docker, Linux, dan AI untuk membuat sistem yang praktis, terdokumentasi, dan siap digunakan. Untuk melihat semua link resmi, portfolio, jasa website, AICLUB, toko digital, dan media sosial, kunjungi [Yans.AI.ID](https://yans.ai.id/).
+Saya menggabungkan TypeScript, Next.js, React, Go, MQL5, PostgreSQL, Redis, Docker, Linux, dan AI untuk membuat sistem yang praktis, terdokumentasi, dan siap digunakan. Untuk melihat semua link resmi, portfolio, jasa website, AICLUB, toko digital, dan media sosial, kunjungi [Yans.AI.ID](https://yans.ai.id/).
 
 ## Principles
 
