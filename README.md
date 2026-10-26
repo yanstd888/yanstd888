@@ -93,7 +93,7 @@ The fastest way to find my current work and contact channels is [Yans.AI.ID](htt
 </p>
 
 <p>
-  <a href="https://t.me/aiclub_id"><img src="https://img.shields.io/badge/Telegram%20Channel-AICLUB-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="AICLUB Telegram channel"></a>
+  <a href="https://t.me/s/aiclub_id"><img src="https://img.shields.io/badge/Telegram%20Channel-AICLUB-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="AICLUB Telegram channel"></a>
   <a href="https://t.me/yanstd888"><img src="https://img.shields.io/badge/Telegram-yanstd888-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Yanstd Telegram"></a>
 </p>
 
