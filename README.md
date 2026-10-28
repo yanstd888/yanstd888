@@ -67,16 +67,17 @@ domains_of_work:
 ```
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Golang" />
-  <img src="https://img.shields.io/badge/MQL5-0D1117?style=for-the-badge&logo=metatrader5&logoColor=2962FF" alt="MQL5 MetaTrader 5" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <!-- MODERN SKILL ICONS (100% RELIABLE CDN) -->
+  <p>
+    <a href="https://github.com/yanstd888">
+      <img src="https://skillicons.dev/icons?i=ts,nextjs,react,golang,nodejs,php,tailwind,postgres,mysql,redis,docker,cloudflare,linux,git&theme=dark&perline=7" alt="Yanstd Tech Stack Icons" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/MQL5-MetaTrader%205%20Expert%20Advisors-0D1117?style=flat-square&logo=metatrader5&logoColor=2962FF" alt="MQL5 MetaTrader 5" />
+    <img src="https://img.shields.io/badge/Smart%20Money%20Concepts-SMC%20%2F%20ICT%20%2F%20MSNR-0D1117?style=flat-square&color=10B981" alt="Smart Money Concepts SMC MSNR" />
+    <img src="https://img.shields.io/badge/AI%20Architecture-LLM%20Gateways%20%26%20Agents-0D1117?style=flat-square&color=FFD23F" alt="LLM API Gateways and Multi-Agent Systems" />
+  </p>
 </div>
 
 ---
@@ -153,11 +154,21 @@ domains_of_work:
 
 ---
 
-## 📊 GitHub Telemetry & Connect
+## 📊 Telemetry & Connect
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=yanstd888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD23F&icon_color=26A5E4&text_color=E2E8F0" alt="Yanstd GitHub Stats" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanstd888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD23F&text_color=E2E8F0" alt="Yanstd Top Languages" />
+  <!-- LIVE GITHUB METRICS (NATIVE SHIELDS + STREAK STATS - NO RATE LIMIT) -->
+  <p>
+    <a href="https://github.com/yanstd888?tab=followers"><img src="https://img.shields.io/github/followers/yanstd888?style=for-the-badge&logo=github&label=Followers&color=2563EB&labelColor=0D1117" alt="GitHub Followers" /></a>
+    <a href="https://github.com/yanstd888?tab=repositories"><img src="https://img.shields.io/github/stars/yanstd888?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD23F&labelColor=0D1117" alt="GitHub Total Stars" /></a>
+    <a href="https://github.com/yanstd888/free-subdomain-aiclub-ai-id"><img src="https://img.shields.io/github/stars/yanstd888/free-subdomain-aiclub-ai-id?style=for-the-badge&logo=serverless&label=AICLUB%20Subdomains&color=10B981&labelColor=0D1117" alt="AICLUB Subdomains Repo Stars" /></a>
+  </p>
+
+  <p>
+    <a href="https://github.com/yanstd888">
+      <img src="https://streak-stats.demolab.com?user=yanstd888&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1E293B&ring=FFD23F&fire=FF6B35&currStreakLabel=38BDF8" alt="Yanstd GitHub Streak Stats" />
+    </a>
+  </p>
 </div>
 
 <br>
