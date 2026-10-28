@@ -24,6 +24,7 @@ Building practical tools from Batam, Indonesia — with careful engineering, cle
 [![Telegram AICLUB](https://img.shields.io/badge/Telegram-AICLUB-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aiclub_id)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square)](https://github.com/sponsors/yanstd888)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/yanstd888/badge.svg)](https://hub.xerj.org/contributors/yanstd888)
 </div>
 
 ## Builder status
