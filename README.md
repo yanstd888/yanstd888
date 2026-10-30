@@ -15,7 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=750&lines=AI+Ecosystem+Builder+%C2%B7+Full-Stack+Systems+%C2%B7+Algorithmic+Trading;Architecting+LLM+API+Gateways%2C+MT5+Expert+Advisors+%26+Web+Apps;Based+in+Batam%2C+Indonesia+%E2%80%94+Shipping+Reliable+Digital+Products" alt="Yanstd - AI Products, Full-Stack Systems, Automation, Algorithmic Trading" />
   </a>
 
-  <h1>Yan std</h1>
+  <h1>Yanstd Founder of AICLUB (aiclub.ai.id)</h1>
 
   <p align="center">
     <strong>AI products · full-stack systems · automation · algorithmic trading</strong><br>
