@@ -82,7 +82,7 @@ domains_of_work:
 
 ---
 
-## 🚀 Selected Projects & Systems
+##  Selected Projects & Systems
 
 <table width="100%">
   <tr>
@@ -101,13 +101,13 @@ domains_of_work:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🪙 <a href="https://github.com/yanstd888/node2mint">Node2Mint</a></h3>
+      <h3> <a href="https://github.com/yanstd888/node2mint">Node2Mint</a></h3>
       <p><strong>Self-Hosted AI Marketplace & API Gateway</strong></p>
       <p>Self-hosted AI marketplace, token billing engine, OpenAI-compatible API gateway, automated provider failover, and affiliate commission system.</p>
       <p><code>AI Marketplace</code> · <code>Token Billing</code> · <code>API Gateway</code> · <code>Failover</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/yanstd888/threads-auto-poster">Threads Auto Poster</a></h3>
+      <h3> <a href="https://github.com/yanstd888/threads-auto-poster">Threads Auto Poster</a></h3>
       <p><strong>AI-Assisted Social Scheduler & Publisher</strong></p>
       <p>Self-hosted Threads scheduler with AI-assisted content drafting, human-in-the-loop approval gates, and safer publishing workflows.</p>
       <p><code>TypeScript</code> · <code>AI Drafting</code> · <code>Human Approval</code> · <code>Automation</code></p>
@@ -115,7 +115,7 @@ domains_of_work:
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🏭 <a href="https://github.com/yanstd888/agent-product-factory">Agent Product Factory</a></h3>
+      <h3> <a href="https://github.com/yanstd888/agent-product-factory">Agent Product Factory</a></h3>
       <p><strong>Autonomous Agent Skills & Commercial Packaging</strong> — Modular agent skills for building, verifying, and packaging commercial digital products with strict offline QA gates.</p>
       <p><code>AI Agents</code> · <code>Product Factory</code> · <code>Offline QA Gates</code> · <code>Commercial Packaging</code></p>
     </td>
@@ -140,7 +140,7 @@ domains_of_work:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Official Links & Services</h3>
+      <h3> Official Links & Services</h3>
       <ul>
         <li><strong>Yans.AI.ID:</strong> <a href="https://yans.ai.id/">yans.ai.id</a> — <em>Official links, services, & projects</em></li>
         <li><strong>Portfolio & Web Services:</strong> <a href="https://yanstd.web.id/">yanstd.web.id</a> — <em>Web design & full-stack development</em></li>
@@ -154,7 +154,7 @@ domains_of_work:
 
 ---
 
-## 📊 Telemetry & Connect
+##  Telemetry & Connect
 
 <div align="center">
   <!-- LIVE GITHUB METRICS (NATIVE SHIELDS + STREAK STATS - NO RATE LIMIT) -->
