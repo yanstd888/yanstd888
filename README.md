@@ -114,10 +114,17 @@ domains_of_work:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3> <a href="https://github.com/yanstd888/agent-product-factory">Agent Product Factory</a></h3>
-      <p><strong>Autonomous Agent Skills & Commercial Packaging</strong> — Modular agent skills for building, verifying, and packaging commercial digital products with strict offline QA gates.</p>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/yanstd888/agent-product-factory">Agent Product Factory</a></h3>
+      <p><strong>Autonomous Agent Skills & Commercial Packaging</strong></p>
+      <p>Modular agent skills for building, verifying, and packaging commercial digital products with strict offline QA gates.</p>
       <p><code>AI Agents</code> · <code>Product Factory</code> · <code>Offline QA Gates</code> · <code>Commercial Packaging</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ <a href="https://github.com/yanstd888/humanizer-lint">humanizer-lint</a></h3>
+      <p><strong>Zero-Dependency Deterministic Prose & Style Linter</strong></p>
+      <p>Local, zero-dependency prose, UI-text, and code-comment linter that flags stiff, AI-sounding writing with 8 language packs.</p>
+      <p><code>Prose Linter</code> · <code>Anti-AI Slop</code> · <code>Zero Dependency</code> · <code>Agent Skills</code></p>
     </td>
   </tr>
 </table>
