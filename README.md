@@ -115,10 +115,10 @@ domains_of_work:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/yanstd888/agent-product-factory">Agent Product Factory</a></h3>
-      <p><strong>Autonomous Agent Skills & Commercial Packaging</strong></p>
-      <p>Modular agent skills for building, verifying, and packaging commercial digital products with strict offline QA gates.</p>
-      <p><code>AI Agents</code> · <code>Product Factory</code> · <code>Offline QA Gates</code> · <code>Commercial Packaging</code></p>
+      <h3>🔀 <a href="https://github.com/yanstd888/9routerx">9RouterX</a></h3>
+      <p><strong>Self-Hosted AI Router & LLM Gateway</strong></p>
+      <p>Single-binary Go AI router for connecting AI coding tools to multiple model providers through an OpenAI-compatible gateway.</p>
+      <p><code>Go</code> · <code>LLM Gateway</code> · <code>Provider Routing</code> · <code>Self-Hosted</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>✍️ <a href="https://github.com/yanstd888/humanizer-lint">humanizer-lint</a></h3>
